@@ -8,3 +8,5 @@ def test_4():
     print("chenmiaojin")
 def test_5():
     print("张艺兴")
+def test_6():
+    print("王子异")
